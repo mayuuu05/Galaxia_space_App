@@ -17,7 +17,6 @@ Explore the wonders of the universe with **Galaxia** – a captivating space exp
   <img src="https://github.com/user-attachments/assets/4c56f5fd-4f83-4704-9155-9f2af777c9b6" height="35%" width="22%" />
   <img src="https://github.com/user-attachments/assets/0e9afbea-89c7-4dd0-8ab9-fd71f332736b" height="35%" width="22%" />
   <img src="https://github.com/user-attachments/assets/0ce400e9-7299-4ff5-853b-a0b52437ad03" height="35%" width="22%" />
-  <img src="https://github.com/user-attachments/assets/8cbf3de1-6492-4934-97ee-55cd2e2a03a8" height="35%" width="22%" />
 
   <img src="https://github.com/user-attachments/assets/d99c24cf-dd08-429b-a619-48d2ec6cfea5" height="35%" width="22%" />
   <img src="https://github.com/user-attachments/assets/4df56825-19bd-4b8a-8338-4957b994eaa3" height="35%" width="22%" />
