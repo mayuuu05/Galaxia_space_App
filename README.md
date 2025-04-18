@@ -1,4 +1,4 @@
-# 🌌 Space App Galaxia 🚀  
+# 🌌 Space Application Galaxia 🚀  
 Explore the wonders of the universe with **Galaxia** – a captivating space exploration app designed to take you on a virtual journey through the cosmos. From stunning galaxies to breathtaking nebulae, experience the universe like never before! 🌠
 
 ## ✨ Features  
